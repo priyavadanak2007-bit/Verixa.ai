@@ -1,0 +1,2812 @@
+{
+  "9f09adda-c966-4af8-942e-e5d4f2e66270": {
+    "scanId": "9f09adda-c966-4af8-942e-e5d4f2e66270",
+    "filename": "sample.png",
+    "fileType": "png",
+    "status": "uploaded",
+    "createdAt": "2026-09-20T07:22:38.192Z",
+    "updatedAt": "2026-09-20T07:22:38.192Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-9e6fdc36c86d.png",
+    "storageName": "sample-9e6fdc36c86d.png",
+    "size": 102,
+    "mimeType": "image/png"
+  },
+  "efb6a320-0373-438d-94b7-0227bb8d85b1": {
+    "scanId": "efb6a320-0373-438d-94b7-0227bb8d85b1",
+    "filename": "sample.pptx",
+    "fileType": "pptx",
+    "status": "completed",
+    "createdAt": "2026-09-20T07:22:38.338Z",
+    "updatedAt": "2026-09-20T07:22:38.583Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-4b90ab02619c.pptx",
+    "storageName": "sample-4b90ab02619c.pptx",
+    "size": 3530,
+    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "analysis": {
+      "fileType": "pptx",
+      "originalName": "sample.pptx",
+      "extraction": {
+        "pptx": {
+          "slideCount": 2,
+          "slides": [
+            {
+              "title": "Quarterly Overview",
+              "text": "Quarterly Overview",
+              "textBlocks": [
+                "Quarterly Overview"
+              ],
+              "dimensions": {
+                "width": 9144000,
+                "height": 6858000
+              }
+            },
+            {
+              "title": "Project status",
+              "text": "Project status",
+              "textBlocks": [
+                "Project status"
+              ],
+              "dimensions": {
+                "width": 9144000,
+                "height": 6858000
+              }
+            }
+          ],
+          "slideText": "Quarterly Overview\nProject status",
+          "titles": [
+            "Quarterly Overview",
+            "Project status"
+          ],
+          "paragraphs": [
+            "Quarterly Overview",
+            "Project status"
+          ],
+          "fontInfo": [],
+          "images": [],
+          "dimensions": {
+            "width": 9144000,
+            "height": 6858000
+          }
+        }
+      },
+      "issues": [],
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "summary": "The PPTX file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "overallScore": 95
+    },
+    "report": {
+      "scanId": "efb6a320-0373-438d-94b7-0227bb8d85b1",
+      "filename": "sample.pptx",
+      "fileType": "pptx",
+      "status": "completed",
+      "overallScore": 95,
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "issues": [],
+      "summary": "The PPTX file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "extraction": {
+        "pptx": {
+          "slideCount": 2,
+          "slides": [
+            {
+              "title": "Quarterly Overview",
+              "text": "Quarterly Overview",
+              "textBlocks": [
+                "Quarterly Overview"
+              ],
+              "dimensions": {
+                "width": 9144000,
+                "height": 6858000
+              }
+            },
+            {
+              "title": "Project status",
+              "text": "Project status",
+              "textBlocks": [
+                "Project status"
+              ],
+              "dimensions": {
+                "width": 9144000,
+                "height": 6858000
+              }
+            }
+          ],
+          "slideText": "Quarterly Overview\nProject status",
+          "titles": [
+            "Quarterly Overview",
+            "Project status"
+          ],
+          "paragraphs": [
+            "Quarterly Overview",
+            "Project status"
+          ],
+          "fontInfo": [],
+          "images": [],
+          "dimensions": {
+            "width": 9144000,
+            "height": 6858000
+          }
+        }
+      }
+    }
+  },
+  "888e23fa-c5c6-4668-8f43-d412d3b77d3b": {
+    "scanId": "888e23fa-c5c6-4668-8f43-d412d3b77d3b",
+    "filename": "sample.docx",
+    "fileType": "docx",
+    "status": "completed",
+    "createdAt": "2026-09-20T07:22:38.604Z",
+    "updatedAt": "2026-09-20T07:22:38.636Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-973247f6180b.docx",
+    "storageName": "sample-973247f6180b.docx",
+    "size": 1951,
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "analysis": {
+      "fileType": "docx",
+      "originalName": "sample.docx",
+      "extraction": {
+        "docx": {
+          "paragraphs": [
+            "Project Overview",
+            "Verixa AI inspects the quality of business documents."
+          ],
+          "headings": [
+            "Project Overview",
+            "Verixa AI inspects the quality of business documents."
+          ],
+          "text": "Project Overview\n\nVerixa AI inspects the quality of business documents.\n\n",
+          "fontInfo": [],
+          "tables": [],
+          "images": [],
+          "headersFooters": {},
+          "sections": {
+            "paragraphCount": 2
+          }
+        }
+      },
+      "issues": [],
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "summary": "The DOCX file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "overallScore": 95
+    },
+    "report": {
+      "scanId": "888e23fa-c5c6-4668-8f43-d412d3b77d3b",
+      "filename": "sample.docx",
+      "fileType": "docx",
+      "status": "completed",
+      "overallScore": 95,
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "issues": [],
+      "summary": "The DOCX file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "extraction": {
+        "docx": {
+          "paragraphs": [
+            "Project Overview",
+            "Verixa AI inspects the quality of business documents."
+          ],
+          "headings": [
+            "Project Overview",
+            "Verixa AI inspects the quality of business documents."
+          ],
+          "text": "Project Overview\n\nVerixa AI inspects the quality of business documents.\n\n",
+          "fontInfo": [],
+          "tables": [],
+          "images": [],
+          "headersFooters": {},
+          "sections": {
+            "paragraphCount": 2
+          }
+        }
+      }
+    }
+  },
+  "9e104e46-c6ed-415a-8e21-5983836a6cb6": {
+    "scanId": "9e104e46-c6ed-415a-8e21-5983836a6cb6",
+    "filename": "sample.pdf",
+    "fileType": "pdf",
+    "status": "failed",
+    "createdAt": "2026-09-20T07:22:38.652Z",
+    "updatedAt": "2026-09-20T07:22:38.684Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-0b7dd86c851f.pdf",
+    "storageName": "sample-0b7dd86c851f.pdf",
+    "size": 469,
+    "mimeType": "application/pdf",
+    "error": {
+      "code": "INSPECTION_FAILED",
+      "message": "pdfParse is not a function"
+    }
+  },
+  "4a658733-439b-4825-8e58-e89185f87a3e": {
+    "scanId": "4a658733-439b-4825-8e58-e89185f87a3e",
+    "filename": "sample-image.png",
+    "fileType": "png",
+    "status": "failed",
+    "createdAt": "2026-09-20T07:22:38.707Z",
+    "updatedAt": "2026-09-20T07:22:38.724Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-image-cd5abdce2671.png",
+    "storageName": "sample-image-cd5abdce2671.png",
+    "size": 102,
+    "mimeType": "image/png",
+    "error": {
+      "code": "INSPECTION_FAILED",
+      "message": "sizeOf is not a function"
+    }
+  },
+  "b20cf5f6-5bb5-41fb-99a5-7589095f1304": {
+    "scanId": "b20cf5f6-5bb5-41fb-99a5-7589095f1304",
+    "filename": "final-scan.png",
+    "fileType": "png",
+    "status": "failed",
+    "createdAt": "2026-09-20T07:22:38.738Z",
+    "updatedAt": "2026-09-20T07:22:38.771Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\final-scan-4ad4f7c8a96e.png",
+    "storageName": "final-scan-4ad4f7c8a96e.png",
+    "size": 102,
+    "mimeType": "image/png",
+    "error": {
+      "code": "INSPECTION_FAILED",
+      "message": "sizeOf is not a function"
+    }
+  },
+  "a2481e03-7c37-4cfe-b475-5c3544dae3a6": {
+    "scanId": "a2481e03-7c37-4cfe-b475-5c3544dae3a6",
+    "filename": "debug.png",
+    "fileType": "png",
+    "status": "failed",
+    "createdAt": "2026-09-20T07:25:36.324Z",
+    "updatedAt": "2026-09-20T07:25:36.358Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\debug-40eb85d54f4d.png",
+    "storageName": "debug-40eb85d54f4d.png",
+    "size": 102,
+    "mimeType": "image/png",
+    "error": {
+      "code": "INSPECTION_FAILED",
+      "message": "sizeOf is not a function"
+    }
+  },
+  "c3145b3f-c8a3-4732-8a31-bd721492472f": {
+    "scanId": "c3145b3f-c8a3-4732-8a31-bd721492472f",
+    "filename": "sample.png",
+    "fileType": "png",
+    "status": "uploaded",
+    "createdAt": "2026-09-20T07:26:18.199Z",
+    "updatedAt": "2026-09-20T07:26:18.199Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-8a80d0f0babe.png",
+    "storageName": "sample-8a80d0f0babe.png",
+    "size": 102,
+    "mimeType": "image/png"
+  },
+  "44f53d4a-c831-4536-aba2-b5067b115f75": {
+    "scanId": "44f53d4a-c831-4536-aba2-b5067b115f75",
+    "filename": "sample.pptx",
+    "fileType": "pptx",
+    "status": "completed",
+    "createdAt": "2026-09-20T07:26:18.329Z",
+    "updatedAt": "2026-09-20T07:26:18.369Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-fc9119e4977d.pptx",
+    "storageName": "sample-fc9119e4977d.pptx",
+    "size": 3530,
+    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "analysis": {
+      "fileType": "pptx",
+      "originalName": "sample.pptx",
+      "extraction": {
+        "pptx": {
+          "slideCount": 2,
+          "slides": [
+            {
+              "title": "Quarterly Overview",
+              "text": "Quarterly Overview",
+              "textBlocks": [
+                "Quarterly Overview"
+              ],
+              "dimensions": {
+                "width": 9144000,
+                "height": 6858000
+              }
+            },
+            {
+              "title": "Project status",
+              "text": "Project status",
+              "textBlocks": [
+                "Project status"
+              ],
+              "dimensions": {
+                "width": 9144000,
+                "height": 6858000
+              }
+            }
+          ],
+          "slideText": "Quarterly Overview\nProject status",
+          "titles": [
+            "Quarterly Overview",
+            "Project status"
+          ],
+          "paragraphs": [
+            "Quarterly Overview",
+            "Project status"
+          ],
+          "fontInfo": [],
+          "images": [],
+          "dimensions": {
+            "width": 9144000,
+            "height": 6858000
+          }
+        }
+      },
+      "issues": [],
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "summary": "The PPTX file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "overallScore": 95
+    },
+    "report": {
+      "scanId": "44f53d4a-c831-4536-aba2-b5067b115f75",
+      "filename": "sample.pptx",
+      "fileType": "pptx",
+      "status": "completed",
+      "overallScore": 95,
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "issues": [],
+      "summary": "The PPTX file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "extraction": {
+        "pptx": {
+          "slideCount": 2,
+          "slides": [
+            {
+              "title": "Quarterly Overview",
+              "text": "Quarterly Overview",
+              "textBlocks": [
+                "Quarterly Overview"
+              ],
+              "dimensions": {
+                "width": 9144000,
+                "height": 6858000
+              }
+            },
+            {
+              "title": "Project status",
+              "text": "Project status",
+              "textBlocks": [
+                "Project status"
+              ],
+              "dimensions": {
+                "width": 9144000,
+                "height": 6858000
+              }
+            }
+          ],
+          "slideText": "Quarterly Overview\nProject status",
+          "titles": [
+            "Quarterly Overview",
+            "Project status"
+          ],
+          "paragraphs": [
+            "Quarterly Overview",
+            "Project status"
+          ],
+          "fontInfo": [],
+          "images": [],
+          "dimensions": {
+            "width": 9144000,
+            "height": 6858000
+          }
+        }
+      }
+    }
+  },
+  "0d6dfdbc-159c-49b8-8b4f-1d7703e19a3a": {
+    "scanId": "0d6dfdbc-159c-49b8-8b4f-1d7703e19a3a",
+    "filename": "sample.docx",
+    "fileType": "docx",
+    "status": "completed",
+    "createdAt": "2026-09-20T07:26:18.390Z",
+    "updatedAt": "2026-09-20T07:26:18.426Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-a365c844613c.docx",
+    "storageName": "sample-a365c844613c.docx",
+    "size": 1951,
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "analysis": {
+      "fileType": "docx",
+      "originalName": "sample.docx",
+      "extraction": {
+        "docx": {
+          "paragraphs": [
+            "Project Overview",
+            "Verixa AI inspects the quality of business documents."
+          ],
+          "headings": [
+            "Project Overview",
+            "Verixa AI inspects the quality of business documents."
+          ],
+          "text": "Project Overview\n\nVerixa AI inspects the quality of business documents.\n\n",
+          "fontInfo": [],
+          "tables": [],
+          "images": [],
+          "headersFooters": {},
+          "sections": {
+            "paragraphCount": 2
+          }
+        }
+      },
+      "issues": [],
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "summary": "The DOCX file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "overallScore": 95
+    },
+    "report": {
+      "scanId": "0d6dfdbc-159c-49b8-8b4f-1d7703e19a3a",
+      "filename": "sample.docx",
+      "fileType": "docx",
+      "status": "completed",
+      "overallScore": 95,
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "issues": [],
+      "summary": "The DOCX file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "extraction": {
+        "docx": {
+          "paragraphs": [
+            "Project Overview",
+            "Verixa AI inspects the quality of business documents."
+          ],
+          "headings": [
+            "Project Overview",
+            "Verixa AI inspects the quality of business documents."
+          ],
+          "text": "Project Overview\n\nVerixa AI inspects the quality of business documents.\n\n",
+          "fontInfo": [],
+          "tables": [],
+          "images": [],
+          "headersFooters": {},
+          "sections": {
+            "paragraphCount": 2
+          }
+        }
+      }
+    }
+  },
+  "8818be1b-e3d6-45cc-9998-bc0fd7086258": {
+    "scanId": "8818be1b-e3d6-45cc-9998-bc0fd7086258",
+    "filename": "sample.pdf",
+    "fileType": "pdf",
+    "status": "failed",
+    "createdAt": "2026-09-20T07:26:18.441Z",
+    "updatedAt": "2026-09-20T07:26:18.457Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-9f3cfba037b0.pdf",
+    "storageName": "sample-9f3cfba037b0.pdf",
+    "size": 469,
+    "mimeType": "application/pdf",
+    "error": {
+      "code": "INSPECTION_FAILED",
+      "message": "pdfParse is not a function"
+    }
+  },
+  "7025522d-4c9f-4b44-a96d-626e80f18800": {
+    "scanId": "7025522d-4c9f-4b44-a96d-626e80f18800",
+    "filename": "sample-image.png",
+    "fileType": "png",
+    "status": "completed",
+    "createdAt": "2026-09-20T07:26:18.472Z",
+    "updatedAt": "2026-09-20T07:26:18.493Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-image-d6d8dc1bb859.png",
+    "storageName": "sample-image-d6d8dc1bb859.png",
+    "size": 102,
+    "mimeType": "image/png",
+    "analysis": {
+      "fileType": "png",
+      "originalName": "sample-image.png",
+      "extraction": {
+        "image": {
+          "width": 1,
+          "height": 1,
+          "aspectRatio": 1,
+          "resolution": "1x1",
+          "fileSize": 102,
+          "qualityIndicators": {
+            "approxMegapixels": 0.000001,
+            "isLowResolution": true,
+            "aspectRatio": 1
+          },
+          "ocrText": "",
+          "layout": {
+            "dimensions": "1x1",
+            "orientation": "landscape"
+          }
+        }
+      },
+      "issues": [
+        {
+          "category": "Images",
+          "severity": "medium",
+          "location": "image",
+          "issue": "Image resolution may be low for professional presentation use.",
+          "evidence": "Image dimensions 1x1.",
+          "whyItMatters": "Low-resolution visuals can appear pixelated and reduce credibility.",
+          "suggestion": "Use a higher-resolution image or scale it without distortion."
+        }
+      ],
+      "scores": {
+        "content": 79,
+        "typography": 82,
+        "layout": 77,
+        "visualHierarchy": 76,
+        "readability": 78,
+        "consistency": 80,
+        "technical": 83
+      },
+      "summary": "The PNG file has been flagged for image resolution may be low for professional presentation use. based on the extracted evidence.",
+      "recommendations": [
+        "Use a higher-resolution image or scale it without distortion."
+      ],
+      "overallScore": 79
+    },
+    "report": {
+      "scanId": "7025522d-4c9f-4b44-a96d-626e80f18800",
+      "filename": "sample-image.png",
+      "fileType": "png",
+      "status": "completed",
+      "overallScore": 79,
+      "scores": {
+        "content": 79,
+        "typography": 82,
+        "layout": 77,
+        "visualHierarchy": 76,
+        "readability": 78,
+        "consistency": 80,
+        "technical": 83
+      },
+      "issues": [
+        {
+          "category": "Images",
+          "severity": "medium",
+          "location": "image",
+          "issue": "Image resolution may be low for professional presentation use.",
+          "evidence": "Image dimensions 1x1.",
+          "whyItMatters": "Low-resolution visuals can appear pixelated and reduce credibility.",
+          "suggestion": "Use a higher-resolution image or scale it without distortion."
+        }
+      ],
+      "summary": "The PNG file has been flagged for image resolution may be low for professional presentation use. based on the extracted evidence.",
+      "recommendations": [
+        "Use a higher-resolution image or scale it without distortion."
+      ],
+      "extraction": {
+        "image": {
+          "width": 1,
+          "height": 1,
+          "aspectRatio": 1,
+          "resolution": "1x1",
+          "fileSize": 102,
+          "qualityIndicators": {
+            "approxMegapixels": 0.000001,
+            "isLowResolution": true,
+            "aspectRatio": 1
+          },
+          "ocrText": "",
+          "layout": {
+            "dimensions": "1x1",
+            "orientation": "landscape"
+          }
+        }
+      }
+    }
+  },
+  "6e9d6bb9-f801-41be-a073-373c77223dd6": {
+    "scanId": "6e9d6bb9-f801-41be-a073-373c77223dd6",
+    "filename": "final-scan.png",
+    "fileType": "png",
+    "status": "completed",
+    "createdAt": "2026-09-20T07:26:18.507Z",
+    "updatedAt": "2026-09-20T07:26:18.536Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\final-scan-6a33b819debb.png",
+    "storageName": "final-scan-6a33b819debb.png",
+    "size": 102,
+    "mimeType": "image/png",
+    "analysis": {
+      "fileType": "png",
+      "originalName": "final-scan.png",
+      "extraction": {
+        "image": {
+          "width": 1,
+          "height": 1,
+          "aspectRatio": 1,
+          "resolution": "1x1",
+          "fileSize": 102,
+          "qualityIndicators": {
+            "approxMegapixels": 0.000001,
+            "isLowResolution": true,
+            "aspectRatio": 1
+          },
+          "ocrText": "",
+          "layout": {
+            "dimensions": "1x1",
+            "orientation": "landscape"
+          }
+        }
+      },
+      "issues": [
+        {
+          "category": "Images",
+          "severity": "medium",
+          "location": "image",
+          "issue": "Image resolution may be low for professional presentation use.",
+          "evidence": "Image dimensions 1x1.",
+          "whyItMatters": "Low-resolution visuals can appear pixelated and reduce credibility.",
+          "suggestion": "Use a higher-resolution image or scale it without distortion."
+        }
+      ],
+      "scores": {
+        "content": 79,
+        "typography": 82,
+        "layout": 77,
+        "visualHierarchy": 76,
+        "readability": 78,
+        "consistency": 80,
+        "technical": 83
+      },
+      "summary": "The PNG file has been flagged for image resolution may be low for professional presentation use. based on the extracted evidence.",
+      "recommendations": [
+        "Use a higher-resolution image or scale it without distortion."
+      ],
+      "overallScore": 79
+    },
+    "report": {
+      "scanId": "6e9d6bb9-f801-41be-a073-373c77223dd6",
+      "filename": "final-scan.png",
+      "fileType": "png",
+      "status": "completed",
+      "overallScore": 79,
+      "scores": {
+        "content": 79,
+        "typography": 82,
+        "layout": 77,
+        "visualHierarchy": 76,
+        "readability": 78,
+        "consistency": 80,
+        "technical": 83
+      },
+      "issues": [
+        {
+          "category": "Images",
+          "severity": "medium",
+          "location": "image",
+          "issue": "Image resolution may be low for professional presentation use.",
+          "evidence": "Image dimensions 1x1.",
+          "whyItMatters": "Low-resolution visuals can appear pixelated and reduce credibility.",
+          "suggestion": "Use a higher-resolution image or scale it without distortion."
+        }
+      ],
+      "summary": "The PNG file has been flagged for image resolution may be low for professional presentation use. based on the extracted evidence.",
+      "recommendations": [
+        "Use a higher-resolution image or scale it without distortion."
+      ],
+      "extraction": {
+        "image": {
+          "width": 1,
+          "height": 1,
+          "aspectRatio": 1,
+          "resolution": "1x1",
+          "fileSize": 102,
+          "qualityIndicators": {
+            "approxMegapixels": 0.000001,
+            "isLowResolution": true,
+            "aspectRatio": 1
+          },
+          "ocrText": "",
+          "layout": {
+            "dimensions": "1x1",
+            "orientation": "landscape"
+          }
+        }
+      }
+    }
+  },
+  "3f7a80e5-525d-4f48-97e3-affe590d4780": {
+    "scanId": "3f7a80e5-525d-4f48-97e3-affe590d4780",
+    "filename": "debug-pdf.pdf",
+    "fileType": "pdf",
+    "status": "failed",
+    "createdAt": "2026-09-20T07:26:24.039Z",
+    "updatedAt": "2026-09-20T07:26:24.072Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\debug-pdf-ffec0d145020.pdf",
+    "storageName": "debug-pdf-ffec0d145020.pdf",
+    "size": 469,
+    "mimeType": "application/pdf",
+    "error": {
+      "code": "INSPECTION_FAILED",
+      "message": "pdfParse is not a function"
+    }
+  },
+  "523a70e3-7467-4f75-ae6d-f8ad51f7022f": {
+    "scanId": "523a70e3-7467-4f75-ae6d-f8ad51f7022f",
+    "filename": "sample.png",
+    "fileType": "png",
+    "status": "uploaded",
+    "createdAt": "2026-09-20T07:29:52.791Z",
+    "updatedAt": "2026-09-20T07:29:52.791Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-423058379e4f.png",
+    "storageName": "sample-423058379e4f.png",
+    "size": 102,
+    "mimeType": "image/png"
+  },
+  "da29af5d-57eb-460c-bade-75c9a3b292fa": {
+    "scanId": "da29af5d-57eb-460c-bade-75c9a3b292fa",
+    "filename": "sample.pptx",
+    "fileType": "pptx",
+    "status": "completed",
+    "createdAt": "2026-09-20T07:29:52.906Z",
+    "updatedAt": "2026-09-20T07:29:52.949Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-a5236a34a513.pptx",
+    "storageName": "sample-a5236a34a513.pptx",
+    "size": 3530,
+    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "analysis": {
+      "fileType": "pptx",
+      "originalName": "sample.pptx",
+      "extraction": {
+        "pptx": {
+          "slideCount": 2,
+          "slides": [
+            {
+              "title": "Quarterly Overview",
+              "text": "Quarterly Overview",
+              "textBlocks": [
+                "Quarterly Overview"
+              ],
+              "dimensions": {
+                "width": 9144000,
+                "height": 6858000
+              }
+            },
+            {
+              "title": "Project status",
+              "text": "Project status",
+              "textBlocks": [
+                "Project status"
+              ],
+              "dimensions": {
+                "width": 9144000,
+                "height": 6858000
+              }
+            }
+          ],
+          "slideText": "Quarterly Overview\nProject status",
+          "titles": [
+            "Quarterly Overview",
+            "Project status"
+          ],
+          "paragraphs": [
+            "Quarterly Overview",
+            "Project status"
+          ],
+          "fontInfo": [],
+          "images": [],
+          "dimensions": {
+            "width": 9144000,
+            "height": 6858000
+          }
+        }
+      },
+      "issues": [],
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "summary": "The PPTX file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "overallScore": 95
+    },
+    "report": {
+      "scanId": "da29af5d-57eb-460c-bade-75c9a3b292fa",
+      "filename": "sample.pptx",
+      "fileType": "pptx",
+      "status": "completed",
+      "overallScore": 95,
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "issues": [],
+      "summary": "The PPTX file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "extraction": {
+        "pptx": {
+          "slideCount": 2,
+          "slides": [
+            {
+              "title": "Quarterly Overview",
+              "text": "Quarterly Overview",
+              "textBlocks": [
+                "Quarterly Overview"
+              ],
+              "dimensions": {
+                "width": 9144000,
+                "height": 6858000
+              }
+            },
+            {
+              "title": "Project status",
+              "text": "Project status",
+              "textBlocks": [
+                "Project status"
+              ],
+              "dimensions": {
+                "width": 9144000,
+                "height": 6858000
+              }
+            }
+          ],
+          "slideText": "Quarterly Overview\nProject status",
+          "titles": [
+            "Quarterly Overview",
+            "Project status"
+          ],
+          "paragraphs": [
+            "Quarterly Overview",
+            "Project status"
+          ],
+          "fontInfo": [],
+          "images": [],
+          "dimensions": {
+            "width": 9144000,
+            "height": 6858000
+          }
+        }
+      }
+    }
+  },
+  "b45e9a5f-48be-48b6-9990-3cf9c7eb6a06": {
+    "scanId": "b45e9a5f-48be-48b6-9990-3cf9c7eb6a06",
+    "filename": "sample.docx",
+    "fileType": "docx",
+    "status": "completed",
+    "createdAt": "2026-09-20T07:29:52.969Z",
+    "updatedAt": "2026-09-20T07:29:53.004Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-b6ae6edf9cf8.docx",
+    "storageName": "sample-b6ae6edf9cf8.docx",
+    "size": 1951,
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "analysis": {
+      "fileType": "docx",
+      "originalName": "sample.docx",
+      "extraction": {
+        "docx": {
+          "paragraphs": [
+            "Project Overview",
+            "Verixa AI inspects the quality of business documents."
+          ],
+          "headings": [
+            "Project Overview",
+            "Verixa AI inspects the quality of business documents."
+          ],
+          "text": "Project Overview\n\nVerixa AI inspects the quality of business documents.\n\n",
+          "fontInfo": [],
+          "tables": [],
+          "images": [],
+          "headersFooters": {},
+          "sections": {
+            "paragraphCount": 2
+          }
+        }
+      },
+      "issues": [],
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "summary": "The DOCX file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "overallScore": 95
+    },
+    "report": {
+      "scanId": "b45e9a5f-48be-48b6-9990-3cf9c7eb6a06",
+      "filename": "sample.docx",
+      "fileType": "docx",
+      "status": "completed",
+      "overallScore": 95,
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "issues": [],
+      "summary": "The DOCX file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "extraction": {
+        "docx": {
+          "paragraphs": [
+            "Project Overview",
+            "Verixa AI inspects the quality of business documents."
+          ],
+          "headings": [
+            "Project Overview",
+            "Verixa AI inspects the quality of business documents."
+          ],
+          "text": "Project Overview\n\nVerixa AI inspects the quality of business documents.\n\n",
+          "fontInfo": [],
+          "tables": [],
+          "images": [],
+          "headersFooters": {},
+          "sections": {
+            "paragraphCount": 2
+          }
+        }
+      }
+    }
+  },
+  "57b4ca63-c581-4662-a80e-909f162156a7": {
+    "scanId": "57b4ca63-c581-4662-a80e-909f162156a7",
+    "filename": "sample.pdf",
+    "fileType": "pdf",
+    "status": "completed",
+    "createdAt": "2026-09-20T07:29:53.018Z",
+    "updatedAt": "2026-09-20T07:29:53.040Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-47c38d5f2a4b.pdf",
+    "storageName": "sample-47c38d5f2a4b.pdf",
+    "size": 469,
+    "mimeType": "application/pdf",
+    "analysis": {
+      "fileType": "pdf",
+      "originalName": "sample.pdf",
+      "extraction": {
+        "pdf": {
+          "pages": 2,
+          "text": "Hello Verixa",
+          "pageInfo": [
+            {
+              "pageNumber": 1,
+              "text": "Hello Verixa",
+              "width": 0,
+              "height": 0,
+              "fontInfo": "unknown"
+            },
+            {
+              "pageNumber": 2,
+              "text": "Hello Verixa",
+              "width": 0,
+              "height": 0,
+              "fontInfo": "unknown"
+            }
+          ],
+          "layout": {
+            "pageCount": 2,
+            "pageDimensions": [
+              {
+                "pageNumber": 1,
+                "width": 0,
+                "height": 0
+              },
+              {
+                "pageNumber": 2,
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          "images": [],
+          "mimeType": "application/pdf"
+        }
+      },
+      "issues": [],
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "summary": "The PDF file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "overallScore": 95
+    },
+    "report": {
+      "scanId": "57b4ca63-c581-4662-a80e-909f162156a7",
+      "filename": "sample.pdf",
+      "fileType": "pdf",
+      "status": "completed",
+      "overallScore": 95,
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "issues": [],
+      "summary": "The PDF file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "extraction": {
+        "pdf": {
+          "pages": 2,
+          "text": "Hello Verixa",
+          "pageInfo": [
+            {
+              "pageNumber": 1,
+              "text": "Hello Verixa",
+              "width": 0,
+              "height": 0,
+              "fontInfo": "unknown"
+            },
+            {
+              "pageNumber": 2,
+              "text": "Hello Verixa",
+              "width": 0,
+              "height": 0,
+              "fontInfo": "unknown"
+            }
+          ],
+          "layout": {
+            "pageCount": 2,
+            "pageDimensions": [
+              {
+                "pageNumber": 1,
+                "width": 0,
+                "height": 0
+              },
+              {
+                "pageNumber": 2,
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          "images": [],
+          "mimeType": "application/pdf"
+        }
+      }
+    }
+  },
+  "12945942-860c-4616-b15a-c1b053285dd7": {
+    "scanId": "12945942-860c-4616-b15a-c1b053285dd7",
+    "filename": "sample-image.png",
+    "fileType": "png",
+    "status": "completed",
+    "createdAt": "2026-09-20T07:29:53.055Z",
+    "updatedAt": "2026-09-20T07:29:53.077Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-image-66dacc5277f2.png",
+    "storageName": "sample-image-66dacc5277f2.png",
+    "size": 102,
+    "mimeType": "image/png",
+    "analysis": {
+      "fileType": "png",
+      "originalName": "sample-image.png",
+      "extraction": {
+        "image": {
+          "width": 1,
+          "height": 1,
+          "aspectRatio": 1,
+          "resolution": "1x1",
+          "fileSize": 102,
+          "qualityIndicators": {
+            "approxMegapixels": 0.000001,
+            "isLowResolution": true,
+            "aspectRatio": 1
+          },
+          "ocrText": "",
+          "layout": {
+            "dimensions": "1x1",
+            "orientation": "landscape"
+          }
+        }
+      },
+      "issues": [
+        {
+          "category": "Images",
+          "severity": "medium",
+          "location": "image",
+          "issue": "Image resolution may be low for professional presentation use.",
+          "evidence": "Image dimensions 1x1.",
+          "whyItMatters": "Low-resolution visuals can appear pixelated and reduce credibility.",
+          "suggestion": "Use a higher-resolution image or scale it without distortion."
+        }
+      ],
+      "scores": {
+        "content": 79,
+        "typography": 82,
+        "layout": 77,
+        "visualHierarchy": 76,
+        "readability": 78,
+        "consistency": 80,
+        "technical": 83
+      },
+      "summary": "The PNG file has been flagged for image resolution may be low for professional presentation use. based on the extracted evidence.",
+      "recommendations": [
+        "Use a higher-resolution image or scale it without distortion."
+      ],
+      "overallScore": 79
+    },
+    "report": {
+      "scanId": "12945942-860c-4616-b15a-c1b053285dd7",
+      "filename": "sample-image.png",
+      "fileType": "png",
+      "status": "completed",
+      "overallScore": 79,
+      "scores": {
+        "content": 79,
+        "typography": 82,
+        "layout": 77,
+        "visualHierarchy": 76,
+        "readability": 78,
+        "consistency": 80,
+        "technical": 83
+      },
+      "issues": [
+        {
+          "category": "Images",
+          "severity": "medium",
+          "location": "image",
+          "issue": "Image resolution may be low for professional presentation use.",
+          "evidence": "Image dimensions 1x1.",
+          "whyItMatters": "Low-resolution visuals can appear pixelated and reduce credibility.",
+          "suggestion": "Use a higher-resolution image or scale it without distortion."
+        }
+      ],
+      "summary": "The PNG file has been flagged for image resolution may be low for professional presentation use. based on the extracted evidence.",
+      "recommendations": [
+        "Use a higher-resolution image or scale it without distortion."
+      ],
+      "extraction": {
+        "image": {
+          "width": 1,
+          "height": 1,
+          "aspectRatio": 1,
+          "resolution": "1x1",
+          "fileSize": 102,
+          "qualityIndicators": {
+            "approxMegapixels": 0.000001,
+            "isLowResolution": true,
+            "aspectRatio": 1
+          },
+          "ocrText": "",
+          "layout": {
+            "dimensions": "1x1",
+            "orientation": "landscape"
+          }
+        }
+      }
+    }
+  },
+  "28847c8c-6063-404e-9437-99a953536a74": {
+    "scanId": "28847c8c-6063-404e-9437-99a953536a74",
+    "filename": "final-scan.png",
+    "fileType": "png",
+    "status": "completed",
+    "createdAt": "2026-09-20T07:29:53.091Z",
+    "updatedAt": "2026-09-20T07:29:53.121Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\final-scan-793730638a11.png",
+    "storageName": "final-scan-793730638a11.png",
+    "size": 102,
+    "mimeType": "image/png",
+    "analysis": {
+      "fileType": "png",
+      "originalName": "final-scan.png",
+      "extraction": {
+        "image": {
+          "width": 1,
+          "height": 1,
+          "aspectRatio": 1,
+          "resolution": "1x1",
+          "fileSize": 102,
+          "qualityIndicators": {
+            "approxMegapixels": 0.000001,
+            "isLowResolution": true,
+            "aspectRatio": 1
+          },
+          "ocrText": "",
+          "layout": {
+            "dimensions": "1x1",
+            "orientation": "landscape"
+          }
+        }
+      },
+      "issues": [
+        {
+          "category": "Images",
+          "severity": "medium",
+          "location": "image",
+          "issue": "Image resolution may be low for professional presentation use.",
+          "evidence": "Image dimensions 1x1.",
+          "whyItMatters": "Low-resolution visuals can appear pixelated and reduce credibility.",
+          "suggestion": "Use a higher-resolution image or scale it without distortion."
+        }
+      ],
+      "scores": {
+        "content": 79,
+        "typography": 82,
+        "layout": 77,
+        "visualHierarchy": 76,
+        "readability": 78,
+        "consistency": 80,
+        "technical": 83
+      },
+      "summary": "The PNG file has been flagged for image resolution may be low for professional presentation use. based on the extracted evidence.",
+      "recommendations": [
+        "Use a higher-resolution image or scale it without distortion."
+      ],
+      "overallScore": 79
+    },
+    "report": {
+      "scanId": "28847c8c-6063-404e-9437-99a953536a74",
+      "filename": "final-scan.png",
+      "fileType": "png",
+      "status": "completed",
+      "overallScore": 79,
+      "scores": {
+        "content": 79,
+        "typography": 82,
+        "layout": 77,
+        "visualHierarchy": 76,
+        "readability": 78,
+        "consistency": 80,
+        "technical": 83
+      },
+      "issues": [
+        {
+          "category": "Images",
+          "severity": "medium",
+          "location": "image",
+          "issue": "Image resolution may be low for professional presentation use.",
+          "evidence": "Image dimensions 1x1.",
+          "whyItMatters": "Low-resolution visuals can appear pixelated and reduce credibility.",
+          "suggestion": "Use a higher-resolution image or scale it without distortion."
+        }
+      ],
+      "summary": "The PNG file has been flagged for image resolution may be low for professional presentation use. based on the extracted evidence.",
+      "recommendations": [
+        "Use a higher-resolution image or scale it without distortion."
+      ],
+      "extraction": {
+        "image": {
+          "width": 1,
+          "height": 1,
+          "aspectRatio": 1,
+          "resolution": "1x1",
+          "fileSize": 102,
+          "qualityIndicators": {
+            "approxMegapixels": 0.000001,
+            "isLowResolution": true,
+            "aspectRatio": 1
+          },
+          "ocrText": "",
+          "layout": {
+            "dimensions": "1x1",
+            "orientation": "landscape"
+          }
+        }
+      }
+    }
+  },
+  "e474b3ce-1ecf-42f1-a15b-e68b5849d56e": {
+    "scanId": "e474b3ce-1ecf-42f1-a15b-e68b5849d56e",
+    "filename": "sample.png",
+    "fileType": "png",
+    "status": "uploaded",
+    "createdAt": "2026-09-20T07:30:27.386Z",
+    "updatedAt": "2026-09-20T07:30:27.386Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-44d21d7e315c.png",
+    "storageName": "sample-44d21d7e315c.png",
+    "size": 102,
+    "mimeType": "image/png"
+  },
+  "a2e9d24a-9370-4cdc-b2e2-2ad17dd47713": {
+    "scanId": "a2e9d24a-9370-4cdc-b2e2-2ad17dd47713",
+    "filename": "sample.pptx",
+    "fileType": "pptx",
+    "status": "completed",
+    "createdAt": "2026-09-20T07:30:27.506Z",
+    "updatedAt": "2026-09-20T07:30:27.549Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-51cc05b299ed.pptx",
+    "storageName": "sample-51cc05b299ed.pptx",
+    "size": 3530,
+    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "analysis": {
+      "fileType": "pptx",
+      "originalName": "sample.pptx",
+      "extraction": {
+        "pptx": {
+          "slideCount": 2,
+          "slides": [
+            {
+              "title": "Quarterly Overview",
+              "text": "Quarterly Overview",
+              "textBlocks": [
+                "Quarterly Overview"
+              ],
+              "dimensions": {
+                "width": 9144000,
+                "height": 6858000
+              }
+            },
+            {
+              "title": "Project status",
+              "text": "Project status",
+              "textBlocks": [
+                "Project status"
+              ],
+              "dimensions": {
+                "width": 9144000,
+                "height": 6858000
+              }
+            }
+          ],
+          "slideText": "Quarterly Overview\nProject status",
+          "titles": [
+            "Quarterly Overview",
+            "Project status"
+          ],
+          "paragraphs": [
+            "Quarterly Overview",
+            "Project status"
+          ],
+          "fontInfo": [],
+          "images": [],
+          "dimensions": {
+            "width": 9144000,
+            "height": 6858000
+          }
+        },
+        "slideCount": 2,
+        "slides": [
+          {
+            "title": "Quarterly Overview",
+            "text": "Quarterly Overview",
+            "textBlocks": [
+              "Quarterly Overview"
+            ],
+            "dimensions": {
+              "width": 9144000,
+              "height": 6858000
+            }
+          },
+          {
+            "title": "Project status",
+            "text": "Project status",
+            "textBlocks": [
+              "Project status"
+            ],
+            "dimensions": {
+              "width": 9144000,
+              "height": 6858000
+            }
+          }
+        ],
+        "slideText": "Quarterly Overview\nProject status",
+        "titles": [
+          "Quarterly Overview",
+          "Project status"
+        ],
+        "paragraphs": [
+          "Quarterly Overview",
+          "Project status"
+        ]
+      },
+      "issues": [],
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "summary": "The PPTX file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "overallScore": 95
+    },
+    "report": {
+      "scanId": "a2e9d24a-9370-4cdc-b2e2-2ad17dd47713",
+      "filename": "sample.pptx",
+      "fileType": "pptx",
+      "status": "completed",
+      "overallScore": 95,
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "issues": [],
+      "summary": "The PPTX file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "extraction": {
+        "pptx": {
+          "slideCount": 2,
+          "slides": [
+            {
+              "title": "Quarterly Overview",
+              "text": "Quarterly Overview",
+              "textBlocks": [
+                "Quarterly Overview"
+              ],
+              "dimensions": {
+                "width": 9144000,
+                "height": 6858000
+              }
+            },
+            {
+              "title": "Project status",
+              "text": "Project status",
+              "textBlocks": [
+                "Project status"
+              ],
+              "dimensions": {
+                "width": 9144000,
+                "height": 6858000
+              }
+            }
+          ],
+          "slideText": "Quarterly Overview\nProject status",
+          "titles": [
+            "Quarterly Overview",
+            "Project status"
+          ],
+          "paragraphs": [
+            "Quarterly Overview",
+            "Project status"
+          ],
+          "fontInfo": [],
+          "images": [],
+          "dimensions": {
+            "width": 9144000,
+            "height": 6858000
+          }
+        },
+        "slideCount": 2,
+        "slides": [
+          {
+            "title": "Quarterly Overview",
+            "text": "Quarterly Overview",
+            "textBlocks": [
+              "Quarterly Overview"
+            ],
+            "dimensions": {
+              "width": 9144000,
+              "height": 6858000
+            }
+          },
+          {
+            "title": "Project status",
+            "text": "Project status",
+            "textBlocks": [
+              "Project status"
+            ],
+            "dimensions": {
+              "width": 9144000,
+              "height": 6858000
+            }
+          }
+        ],
+        "slideText": "Quarterly Overview\nProject status",
+        "titles": [
+          "Quarterly Overview",
+          "Project status"
+        ],
+        "paragraphs": [
+          "Quarterly Overview",
+          "Project status"
+        ]
+      }
+    }
+  },
+  "8e857c76-ca80-4824-b90d-118b8b884ca0": {
+    "scanId": "8e857c76-ca80-4824-b90d-118b8b884ca0",
+    "filename": "sample.docx",
+    "fileType": "docx",
+    "status": "completed",
+    "createdAt": "2026-09-20T07:30:27.564Z",
+    "updatedAt": "2026-09-20T07:30:27.605Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-3a87379f1df9.docx",
+    "storageName": "sample-3a87379f1df9.docx",
+    "size": 1951,
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "analysis": {
+      "fileType": "docx",
+      "originalName": "sample.docx",
+      "extraction": {
+        "docx": {
+          "paragraphs": [
+            "Project Overview",
+            "Verixa AI inspects the quality of business documents."
+          ],
+          "headings": [
+            "Project Overview",
+            "Verixa AI inspects the quality of business documents."
+          ],
+          "text": "Project Overview\n\nVerixa AI inspects the quality of business documents.\n\n",
+          "fontInfo": [],
+          "tables": [],
+          "images": [],
+          "headersFooters": {},
+          "sections": {
+            "paragraphCount": 2
+          }
+        },
+        "paragraphs": [
+          "Project Overview",
+          "Verixa AI inspects the quality of business documents."
+        ],
+        "headings": [
+          "Project Overview",
+          "Verixa AI inspects the quality of business documents."
+        ],
+        "text": "Project Overview\n\nVerixa AI inspects the quality of business documents.\n\n"
+      },
+      "issues": [],
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "summary": "The DOCX file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "overallScore": 95
+    },
+    "report": {
+      "scanId": "8e857c76-ca80-4824-b90d-118b8b884ca0",
+      "filename": "sample.docx",
+      "fileType": "docx",
+      "status": "completed",
+      "overallScore": 95,
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "issues": [],
+      "summary": "The DOCX file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "extraction": {
+        "docx": {
+          "paragraphs": [
+            "Project Overview",
+            "Verixa AI inspects the quality of business documents."
+          ],
+          "headings": [
+            "Project Overview",
+            "Verixa AI inspects the quality of business documents."
+          ],
+          "text": "Project Overview\n\nVerixa AI inspects the quality of business documents.\n\n",
+          "fontInfo": [],
+          "tables": [],
+          "images": [],
+          "headersFooters": {},
+          "sections": {
+            "paragraphCount": 2
+          }
+        },
+        "paragraphs": [
+          "Project Overview",
+          "Verixa AI inspects the quality of business documents."
+        ],
+        "headings": [
+          "Project Overview",
+          "Verixa AI inspects the quality of business documents."
+        ],
+        "text": "Project Overview\n\nVerixa AI inspects the quality of business documents.\n\n"
+      }
+    }
+  },
+  "de833479-ac7a-4073-9a11-2b7b45ad3a83": {
+    "scanId": "de833479-ac7a-4073-9a11-2b7b45ad3a83",
+    "filename": "sample.pdf",
+    "fileType": "pdf",
+    "status": "completed",
+    "createdAt": "2026-09-20T07:30:27.622Z",
+    "updatedAt": "2026-09-20T07:30:27.648Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-9c5e808d21c6.pdf",
+    "storageName": "sample-9c5e808d21c6.pdf",
+    "size": 469,
+    "mimeType": "application/pdf",
+    "analysis": {
+      "fileType": "pdf",
+      "originalName": "sample.pdf",
+      "extraction": {
+        "pdf": {
+          "pages": 2,
+          "text": "Hello Verixa",
+          "pageInfo": [
+            {
+              "pageNumber": 1,
+              "text": "Hello Verixa",
+              "width": 0,
+              "height": 0,
+              "fontInfo": "unknown"
+            },
+            {
+              "pageNumber": 2,
+              "text": "Hello Verixa",
+              "width": 0,
+              "height": 0,
+              "fontInfo": "unknown"
+            }
+          ],
+          "layout": {
+            "pageCount": 2,
+            "pageDimensions": [
+              {
+                "pageNumber": 1,
+                "width": 0,
+                "height": 0
+              },
+              {
+                "pageNumber": 2,
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          "images": [],
+          "mimeType": "application/pdf"
+        },
+        "pages": 2,
+        "text": "Hello Verixa",
+        "pageInfo": [
+          {
+            "pageNumber": 1,
+            "text": "Hello Verixa",
+            "width": 0,
+            "height": 0,
+            "fontInfo": "unknown"
+          },
+          {
+            "pageNumber": 2,
+            "text": "Hello Verixa",
+            "width": 0,
+            "height": 0,
+            "fontInfo": "unknown"
+          }
+        ]
+      },
+      "issues": [],
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "summary": "The PDF file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "overallScore": 95
+    },
+    "report": {
+      "scanId": "de833479-ac7a-4073-9a11-2b7b45ad3a83",
+      "filename": "sample.pdf",
+      "fileType": "pdf",
+      "status": "completed",
+      "overallScore": 95,
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "issues": [],
+      "summary": "The PDF file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "extraction": {
+        "pdf": {
+          "pages": 2,
+          "text": "Hello Verixa",
+          "pageInfo": [
+            {
+              "pageNumber": 1,
+              "text": "Hello Verixa",
+              "width": 0,
+              "height": 0,
+              "fontInfo": "unknown"
+            },
+            {
+              "pageNumber": 2,
+              "text": "Hello Verixa",
+              "width": 0,
+              "height": 0,
+              "fontInfo": "unknown"
+            }
+          ],
+          "layout": {
+            "pageCount": 2,
+            "pageDimensions": [
+              {
+                "pageNumber": 1,
+                "width": 0,
+                "height": 0
+              },
+              {
+                "pageNumber": 2,
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          "images": [],
+          "mimeType": "application/pdf"
+        },
+        "pages": 2,
+        "text": "Hello Verixa",
+        "pageInfo": [
+          {
+            "pageNumber": 1,
+            "text": "Hello Verixa",
+            "width": 0,
+            "height": 0,
+            "fontInfo": "unknown"
+          },
+          {
+            "pageNumber": 2,
+            "text": "Hello Verixa",
+            "width": 0,
+            "height": 0,
+            "fontInfo": "unknown"
+          }
+        ]
+      }
+    }
+  },
+  "a82f66bc-8e1f-4381-8f85-11ffdc73dc9c": {
+    "scanId": "a82f66bc-8e1f-4381-8f85-11ffdc73dc9c",
+    "filename": "sample-image.png",
+    "fileType": "png",
+    "status": "completed",
+    "createdAt": "2026-09-20T07:30:27.661Z",
+    "updatedAt": "2026-09-20T07:30:27.688Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-image-b5511e32e7d0.png",
+    "storageName": "sample-image-b5511e32e7d0.png",
+    "size": 102,
+    "mimeType": "image/png",
+    "analysis": {
+      "fileType": "png",
+      "originalName": "sample-image.png",
+      "extraction": {
+        "image": {
+          "width": 1,
+          "height": 1,
+          "aspectRatio": 1,
+          "resolution": "1x1",
+          "fileSize": 102,
+          "qualityIndicators": {
+            "approxMegapixels": 0.000001,
+            "isLowResolution": true,
+            "aspectRatio": 1
+          },
+          "ocrText": "",
+          "layout": {
+            "dimensions": "1x1",
+            "orientation": "landscape"
+          }
+        },
+        "width": 1,
+        "height": 1,
+        "aspectRatio": 1,
+        "resolution": "1x1"
+      },
+      "issues": [
+        {
+          "category": "Images",
+          "severity": "medium",
+          "location": "image",
+          "issue": "Image resolution may be low for professional presentation use.",
+          "evidence": "Image dimensions 1x1.",
+          "whyItMatters": "Low-resolution visuals can appear pixelated and reduce credibility.",
+          "suggestion": "Use a higher-resolution image or scale it without distortion."
+        }
+      ],
+      "scores": {
+        "content": 79,
+        "typography": 82,
+        "layout": 77,
+        "visualHierarchy": 76,
+        "readability": 78,
+        "consistency": 80,
+        "technical": 83
+      },
+      "summary": "The PNG file has been flagged for image resolution may be low for professional presentation use. based on the extracted evidence.",
+      "recommendations": [
+        "Use a higher-resolution image or scale it without distortion."
+      ],
+      "overallScore": 79
+    },
+    "report": {
+      "scanId": "a82f66bc-8e1f-4381-8f85-11ffdc73dc9c",
+      "filename": "sample-image.png",
+      "fileType": "png",
+      "status": "completed",
+      "overallScore": 79,
+      "scores": {
+        "content": 79,
+        "typography": 82,
+        "layout": 77,
+        "visualHierarchy": 76,
+        "readability": 78,
+        "consistency": 80,
+        "technical": 83
+      },
+      "issues": [
+        {
+          "category": "Images",
+          "severity": "medium",
+          "location": "image",
+          "issue": "Image resolution may be low for professional presentation use.",
+          "evidence": "Image dimensions 1x1.",
+          "whyItMatters": "Low-resolution visuals can appear pixelated and reduce credibility.",
+          "suggestion": "Use a higher-resolution image or scale it without distortion."
+        }
+      ],
+      "summary": "The PNG file has been flagged for image resolution may be low for professional presentation use. based on the extracted evidence.",
+      "recommendations": [
+        "Use a higher-resolution image or scale it without distortion."
+      ],
+      "extraction": {
+        "image": {
+          "width": 1,
+          "height": 1,
+          "aspectRatio": 1,
+          "resolution": "1x1",
+          "fileSize": 102,
+          "qualityIndicators": {
+            "approxMegapixels": 0.000001,
+            "isLowResolution": true,
+            "aspectRatio": 1
+          },
+          "ocrText": "",
+          "layout": {
+            "dimensions": "1x1",
+            "orientation": "landscape"
+          }
+        },
+        "width": 1,
+        "height": 1,
+        "aspectRatio": 1,
+        "resolution": "1x1"
+      }
+    }
+  },
+  "2b737a7f-33df-48d1-91ac-ce2c76a2a4f3": {
+    "scanId": "2b737a7f-33df-48d1-91ac-ce2c76a2a4f3",
+    "filename": "final-scan.png",
+    "fileType": "png",
+    "status": "completed",
+    "createdAt": "2026-09-20T07:30:27.703Z",
+    "updatedAt": "2026-09-20T07:30:27.735Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\final-scan-81b19ceb1eb2.png",
+    "storageName": "final-scan-81b19ceb1eb2.png",
+    "size": 102,
+    "mimeType": "image/png",
+    "analysis": {
+      "fileType": "png",
+      "originalName": "final-scan.png",
+      "extraction": {
+        "image": {
+          "width": 1,
+          "height": 1,
+          "aspectRatio": 1,
+          "resolution": "1x1",
+          "fileSize": 102,
+          "qualityIndicators": {
+            "approxMegapixels": 0.000001,
+            "isLowResolution": true,
+            "aspectRatio": 1
+          },
+          "ocrText": "",
+          "layout": {
+            "dimensions": "1x1",
+            "orientation": "landscape"
+          }
+        },
+        "width": 1,
+        "height": 1,
+        "aspectRatio": 1,
+        "resolution": "1x1"
+      },
+      "issues": [
+        {
+          "category": "Images",
+          "severity": "medium",
+          "location": "image",
+          "issue": "Image resolution may be low for professional presentation use.",
+          "evidence": "Image dimensions 1x1.",
+          "whyItMatters": "Low-resolution visuals can appear pixelated and reduce credibility.",
+          "suggestion": "Use a higher-resolution image or scale it without distortion."
+        }
+      ],
+      "scores": {
+        "content": 79,
+        "typography": 82,
+        "layout": 77,
+        "visualHierarchy": 76,
+        "readability": 78,
+        "consistency": 80,
+        "technical": 83
+      },
+      "summary": "The PNG file has been flagged for image resolution may be low for professional presentation use. based on the extracted evidence.",
+      "recommendations": [
+        "Use a higher-resolution image or scale it without distortion."
+      ],
+      "overallScore": 79
+    },
+    "report": {
+      "scanId": "2b737a7f-33df-48d1-91ac-ce2c76a2a4f3",
+      "filename": "final-scan.png",
+      "fileType": "png",
+      "status": "completed",
+      "overallScore": 79,
+      "scores": {
+        "content": 79,
+        "typography": 82,
+        "layout": 77,
+        "visualHierarchy": 76,
+        "readability": 78,
+        "consistency": 80,
+        "technical": 83
+      },
+      "issues": [
+        {
+          "category": "Images",
+          "severity": "medium",
+          "location": "image",
+          "issue": "Image resolution may be low for professional presentation use.",
+          "evidence": "Image dimensions 1x1.",
+          "whyItMatters": "Low-resolution visuals can appear pixelated and reduce credibility.",
+          "suggestion": "Use a higher-resolution image or scale it without distortion."
+        }
+      ],
+      "summary": "The PNG file has been flagged for image resolution may be low for professional presentation use. based on the extracted evidence.",
+      "recommendations": [
+        "Use a higher-resolution image or scale it without distortion."
+      ],
+      "extraction": {
+        "image": {
+          "width": 1,
+          "height": 1,
+          "aspectRatio": 1,
+          "resolution": "1x1",
+          "fileSize": 102,
+          "qualityIndicators": {
+            "approxMegapixels": 0.000001,
+            "isLowResolution": true,
+            "aspectRatio": 1
+          },
+          "ocrText": "",
+          "layout": {
+            "dimensions": "1x1",
+            "orientation": "landscape"
+          }
+        },
+        "width": 1,
+        "height": 1,
+        "aspectRatio": 1,
+        "resolution": "1x1"
+      }
+    }
+  },
+  "b106c60c-f5e2-41f2-8d04-2f2235a9a57b": {
+    "scanId": "b106c60c-f5e2-41f2-8d04-2f2235a9a57b",
+    "filename": "sample.png",
+    "fileType": "png",
+    "status": "uploaded",
+    "createdAt": "2026-09-20T08:36:26.759Z",
+    "updatedAt": "2026-09-20T08:36:26.759Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-323202e1dc01.png",
+    "storageName": "sample-323202e1dc01.png",
+    "size": 102,
+    "mimeType": "image/png"
+  },
+  "d10e856f-2d20-4c0c-902f-2dc1dc4c78d9": {
+    "scanId": "d10e856f-2d20-4c0c-902f-2dc1dc4c78d9",
+    "filename": "sample.pptx",
+    "fileType": "pptx",
+    "status": "completed",
+    "createdAt": "2026-09-20T08:36:26.910Z",
+    "updatedAt": "2026-09-20T08:36:27.106Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-2d8b6d16b26f.pptx",
+    "storageName": "sample-2d8b6d16b26f.pptx",
+    "size": 3530,
+    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "analysis": {
+      "fileType": "pptx",
+      "originalName": "sample.pptx",
+      "extraction": {
+        "pptx": {
+          "slideCount": 2,
+          "slides": [
+            {
+              "title": "Quarterly Overview",
+              "text": "Quarterly Overview",
+              "textBlocks": [
+                "Quarterly Overview"
+              ],
+              "dimensions": {
+                "width": 9144000,
+                "height": 6858000
+              }
+            },
+            {
+              "title": "Project status",
+              "text": "Project status",
+              "textBlocks": [
+                "Project status"
+              ],
+              "dimensions": {
+                "width": 9144000,
+                "height": 6858000
+              }
+            }
+          ],
+          "slideText": "Quarterly Overview\nProject status",
+          "titles": [
+            "Quarterly Overview",
+            "Project status"
+          ],
+          "paragraphs": [
+            "Quarterly Overview",
+            "Project status"
+          ],
+          "fontInfo": [],
+          "images": [],
+          "dimensions": {
+            "width": 9144000,
+            "height": 6858000
+          }
+        },
+        "slideCount": 2,
+        "slides": [
+          {
+            "title": "Quarterly Overview",
+            "text": "Quarterly Overview",
+            "textBlocks": [
+              "Quarterly Overview"
+            ],
+            "dimensions": {
+              "width": 9144000,
+              "height": 6858000
+            }
+          },
+          {
+            "title": "Project status",
+            "text": "Project status",
+            "textBlocks": [
+              "Project status"
+            ],
+            "dimensions": {
+              "width": 9144000,
+              "height": 6858000
+            }
+          }
+        ],
+        "slideText": "Quarterly Overview\nProject status",
+        "titles": [
+          "Quarterly Overview",
+          "Project status"
+        ],
+        "paragraphs": [
+          "Quarterly Overview",
+          "Project status"
+        ]
+      },
+      "issues": [],
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "summary": "The PPTX file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "overallScore": 95
+    },
+    "report": {
+      "scanId": "d10e856f-2d20-4c0c-902f-2dc1dc4c78d9",
+      "filename": "sample.pptx",
+      "fileType": "pptx",
+      "status": "completed",
+      "overallScore": 95,
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "issues": [],
+      "summary": "The PPTX file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "extraction": {
+        "pptx": {
+          "slideCount": 2,
+          "slides": [
+            {
+              "title": "Quarterly Overview",
+              "text": "Quarterly Overview",
+              "textBlocks": [
+                "Quarterly Overview"
+              ],
+              "dimensions": {
+                "width": 9144000,
+                "height": 6858000
+              }
+            },
+            {
+              "title": "Project status",
+              "text": "Project status",
+              "textBlocks": [
+                "Project status"
+              ],
+              "dimensions": {
+                "width": 9144000,
+                "height": 6858000
+              }
+            }
+          ],
+          "slideText": "Quarterly Overview\nProject status",
+          "titles": [
+            "Quarterly Overview",
+            "Project status"
+          ],
+          "paragraphs": [
+            "Quarterly Overview",
+            "Project status"
+          ],
+          "fontInfo": [],
+          "images": [],
+          "dimensions": {
+            "width": 9144000,
+            "height": 6858000
+          }
+        },
+        "slideCount": 2,
+        "slides": [
+          {
+            "title": "Quarterly Overview",
+            "text": "Quarterly Overview",
+            "textBlocks": [
+              "Quarterly Overview"
+            ],
+            "dimensions": {
+              "width": 9144000,
+              "height": 6858000
+            }
+          },
+          {
+            "title": "Project status",
+            "text": "Project status",
+            "textBlocks": [
+              "Project status"
+            ],
+            "dimensions": {
+              "width": 9144000,
+              "height": 6858000
+            }
+          }
+        ],
+        "slideText": "Quarterly Overview\nProject status",
+        "titles": [
+          "Quarterly Overview",
+          "Project status"
+        ],
+        "paragraphs": [
+          "Quarterly Overview",
+          "Project status"
+        ]
+      }
+    }
+  },
+  "4e60c3a1-30e1-4791-9090-6bdd7bb40a5b": {
+    "scanId": "4e60c3a1-30e1-4791-9090-6bdd7bb40a5b",
+    "filename": "sample.docx",
+    "fileType": "docx",
+    "status": "completed",
+    "createdAt": "2026-09-20T08:36:27.120Z",
+    "updatedAt": "2026-09-20T08:36:27.159Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-6f7da681d720.docx",
+    "storageName": "sample-6f7da681d720.docx",
+    "size": 1951,
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "analysis": {
+      "fileType": "docx",
+      "originalName": "sample.docx",
+      "extraction": {
+        "docx": {
+          "paragraphs": [
+            "Project Overview",
+            "Verixa AI inspects the quality of business documents."
+          ],
+          "headings": [
+            "Project Overview",
+            "Verixa AI inspects the quality of business documents."
+          ],
+          "text": "Project Overview\n\nVerixa AI inspects the quality of business documents.\n\n",
+          "fontInfo": [],
+          "tables": [],
+          "images": [],
+          "headersFooters": {},
+          "sections": {
+            "paragraphCount": 2
+          }
+        },
+        "paragraphs": [
+          "Project Overview",
+          "Verixa AI inspects the quality of business documents."
+        ],
+        "headings": [
+          "Project Overview",
+          "Verixa AI inspects the quality of business documents."
+        ],
+        "text": "Project Overview\n\nVerixa AI inspects the quality of business documents.\n\n"
+      },
+      "issues": [],
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "summary": "The DOCX file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "overallScore": 95
+    },
+    "report": {
+      "scanId": "4e60c3a1-30e1-4791-9090-6bdd7bb40a5b",
+      "filename": "sample.docx",
+      "fileType": "docx",
+      "status": "completed",
+      "overallScore": 95,
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "issues": [],
+      "summary": "The DOCX file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "extraction": {
+        "docx": {
+          "paragraphs": [
+            "Project Overview",
+            "Verixa AI inspects the quality of business documents."
+          ],
+          "headings": [
+            "Project Overview",
+            "Verixa AI inspects the quality of business documents."
+          ],
+          "text": "Project Overview\n\nVerixa AI inspects the quality of business documents.\n\n",
+          "fontInfo": [],
+          "tables": [],
+          "images": [],
+          "headersFooters": {},
+          "sections": {
+            "paragraphCount": 2
+          }
+        },
+        "paragraphs": [
+          "Project Overview",
+          "Verixa AI inspects the quality of business documents."
+        ],
+        "headings": [
+          "Project Overview",
+          "Verixa AI inspects the quality of business documents."
+        ],
+        "text": "Project Overview\n\nVerixa AI inspects the quality of business documents.\n\n"
+      }
+    }
+  },
+  "9fb9d164-91b6-41fb-a68c-8db97fefbd5c": {
+    "scanId": "9fb9d164-91b6-41fb-a68c-8db97fefbd5c",
+    "filename": "sample.pdf",
+    "fileType": "pdf",
+    "status": "completed",
+    "createdAt": "2026-09-20T08:36:27.172Z",
+    "updatedAt": "2026-09-20T08:36:27.197Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-bfa2c567ad7e.pdf",
+    "storageName": "sample-bfa2c567ad7e.pdf",
+    "size": 469,
+    "mimeType": "application/pdf",
+    "analysis": {
+      "fileType": "pdf",
+      "originalName": "sample.pdf",
+      "extraction": {
+        "pdf": {
+          "pages": 2,
+          "text": "Hello Verixa",
+          "pageInfo": [
+            {
+              "pageNumber": 1,
+              "text": "Hello Verixa",
+              "width": 0,
+              "height": 0,
+              "fontInfo": "unknown"
+            },
+            {
+              "pageNumber": 2,
+              "text": "Hello Verixa",
+              "width": 0,
+              "height": 0,
+              "fontInfo": "unknown"
+            }
+          ],
+          "layout": {
+            "pageCount": 2,
+            "pageDimensions": [
+              {
+                "pageNumber": 1,
+                "width": 0,
+                "height": 0
+              },
+              {
+                "pageNumber": 2,
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          "images": [],
+          "mimeType": "application/pdf"
+        },
+        "pages": 2,
+        "text": "Hello Verixa",
+        "pageInfo": [
+          {
+            "pageNumber": 1,
+            "text": "Hello Verixa",
+            "width": 0,
+            "height": 0,
+            "fontInfo": "unknown"
+          },
+          {
+            "pageNumber": 2,
+            "text": "Hello Verixa",
+            "width": 0,
+            "height": 0,
+            "fontInfo": "unknown"
+          }
+        ]
+      },
+      "issues": [],
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "summary": "The PDF file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "overallScore": 95
+    },
+    "report": {
+      "scanId": "9fb9d164-91b6-41fb-a68c-8db97fefbd5c",
+      "filename": "sample.pdf",
+      "fileType": "pdf",
+      "status": "completed",
+      "overallScore": 95,
+      "scores": {
+        "content": 95,
+        "typography": 98,
+        "layout": 93,
+        "visualHierarchy": 92,
+        "readability": 94,
+        "consistency": 96,
+        "technical": 99
+      },
+      "issues": [],
+      "summary": "The PDF file passed the basic structural checks and no material issues were detected from extracted evidence.",
+      "recommendations": [],
+      "extraction": {
+        "pdf": {
+          "pages": 2,
+          "text": "Hello Verixa",
+          "pageInfo": [
+            {
+              "pageNumber": 1,
+              "text": "Hello Verixa",
+              "width": 0,
+              "height": 0,
+              "fontInfo": "unknown"
+            },
+            {
+              "pageNumber": 2,
+              "text": "Hello Verixa",
+              "width": 0,
+              "height": 0,
+              "fontInfo": "unknown"
+            }
+          ],
+          "layout": {
+            "pageCount": 2,
+            "pageDimensions": [
+              {
+                "pageNumber": 1,
+                "width": 0,
+                "height": 0
+              },
+              {
+                "pageNumber": 2,
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          "images": [],
+          "mimeType": "application/pdf"
+        },
+        "pages": 2,
+        "text": "Hello Verixa",
+        "pageInfo": [
+          {
+            "pageNumber": 1,
+            "text": "Hello Verixa",
+            "width": 0,
+            "height": 0,
+            "fontInfo": "unknown"
+          },
+          {
+            "pageNumber": 2,
+            "text": "Hello Verixa",
+            "width": 0,
+            "height": 0,
+            "fontInfo": "unknown"
+          }
+        ]
+      }
+    }
+  },
+  "482dea09-59ef-4991-aef5-48a0275eb6da": {
+    "scanId": "482dea09-59ef-4991-aef5-48a0275eb6da",
+    "filename": "sample-image.png",
+    "fileType": "png",
+    "status": "completed",
+    "createdAt": "2026-09-20T08:36:27.210Z",
+    "updatedAt": "2026-09-20T08:36:27.235Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\sample-image-0ad493515947.png",
+    "storageName": "sample-image-0ad493515947.png",
+    "size": 102,
+    "mimeType": "image/png",
+    "analysis": {
+      "fileType": "png",
+      "originalName": "sample-image.png",
+      "extraction": {
+        "image": {
+          "width": 1,
+          "height": 1,
+          "aspectRatio": 1,
+          "resolution": "1x1",
+          "fileSize": 102,
+          "qualityIndicators": {
+            "approxMegapixels": 0.000001,
+            "isLowResolution": true,
+            "aspectRatio": 1
+          },
+          "ocrText": "",
+          "layout": {
+            "dimensions": "1x1",
+            "orientation": "landscape"
+          }
+        },
+        "width": 1,
+        "height": 1,
+        "aspectRatio": 1,
+        "resolution": "1x1"
+      },
+      "issues": [
+        {
+          "category": "Images",
+          "severity": "medium",
+          "location": "image",
+          "issue": "Image resolution may be low for professional presentation use.",
+          "evidence": "Image dimensions 1x1.",
+          "whyItMatters": "Low-resolution visuals can appear pixelated and reduce credibility.",
+          "suggestion": "Use a higher-resolution image or scale it without distortion."
+        }
+      ],
+      "scores": {
+        "content": 79,
+        "typography": 82,
+        "layout": 77,
+        "visualHierarchy": 76,
+        "readability": 78,
+        "consistency": 80,
+        "technical": 83
+      },
+      "summary": "The PNG file has been flagged for image resolution may be low for professional presentation use. based on the extracted evidence.",
+      "recommendations": [
+        "Use a higher-resolution image or scale it without distortion."
+      ],
+      "overallScore": 79
+    },
+    "report": {
+      "scanId": "482dea09-59ef-4991-aef5-48a0275eb6da",
+      "filename": "sample-image.png",
+      "fileType": "png",
+      "status": "completed",
+      "overallScore": 79,
+      "scores": {
+        "content": 79,
+        "typography": 82,
+        "layout": 77,
+        "visualHierarchy": 76,
+        "readability": 78,
+        "consistency": 80,
+        "technical": 83
+      },
+      "issues": [
+        {
+          "category": "Images",
+          "severity": "medium",
+          "location": "image",
+          "issue": "Image resolution may be low for professional presentation use.",
+          "evidence": "Image dimensions 1x1.",
+          "whyItMatters": "Low-resolution visuals can appear pixelated and reduce credibility.",
+          "suggestion": "Use a higher-resolution image or scale it without distortion."
+        }
+      ],
+      "summary": "The PNG file has been flagged for image resolution may be low for professional presentation use. based on the extracted evidence.",
+      "recommendations": [
+        "Use a higher-resolution image or scale it without distortion."
+      ],
+      "extraction": {
+        "image": {
+          "width": 1,
+          "height": 1,
+          "aspectRatio": 1,
+          "resolution": "1x1",
+          "fileSize": 102,
+          "qualityIndicators": {
+            "approxMegapixels": 0.000001,
+            "isLowResolution": true,
+            "aspectRatio": 1
+          },
+          "ocrText": "",
+          "layout": {
+            "dimensions": "1x1",
+            "orientation": "landscape"
+          }
+        },
+        "width": 1,
+        "height": 1,
+        "aspectRatio": 1,
+        "resolution": "1x1"
+      }
+    }
+  },
+  "049f4061-bd16-456f-a873-3a348c5dfd28": {
+    "scanId": "049f4061-bd16-456f-a873-3a348c5dfd28",
+    "filename": "final-scan.png",
+    "fileType": "png",
+    "status": "completed",
+    "createdAt": "2026-09-20T08:36:27.248Z",
+    "updatedAt": "2026-09-20T08:36:27.278Z",
+    "filePath": "C:\\Users\\Home\\Desktop\\VERIXA.AI\\verixa.backend\\uploads\\final-scan-c14b0c691b73.png",
+    "storageName": "final-scan-c14b0c691b73.png",
+    "size": 102,
+    "mimeType": "image/png",
+    "analysis": {
+      "fileType": "png",
+      "originalName": "final-scan.png",
+      "extraction": {
+        "image": {
+          "width": 1,
+          "height": 1,
+          "aspectRatio": 1,
+          "resolution": "1x1",
+          "fileSize": 102,
+          "qualityIndicators": {
+            "approxMegapixels": 0.000001,
+            "isLowResolution": true,
+            "aspectRatio": 1
+          },
+          "ocrText": "",
+          "layout": {
+            "dimensions": "1x1",
+            "orientation": "landscape"
+          }
+        },
+        "width": 1,
+        "height": 1,
+        "aspectRatio": 1,
+        "resolution": "1x1"
+      },
+      "issues": [
+        {
+          "category": "Images",
+          "severity": "medium",
+          "location": "image",
+          "issue": "Image resolution may be low for professional presentation use.",
+          "evidence": "Image dimensions 1x1.",
+          "whyItMatters": "Low-resolution visuals can appear pixelated and reduce credibility.",
+          "suggestion": "Use a higher-resolution image or scale it without distortion."
+        }
+      ],
+      "scores": {
+        "content": 79,
+        "typography": 82,
+        "layout": 77,
+        "visualHierarchy": 76,
+        "readability": 78,
+        "consistency": 80,
+        "technical": 83
+      },
+      "summary": "The PNG file has been flagged for image resolution may be low for professional presentation use. based on the extracted evidence.",
+      "recommendations": [
+        "Use a higher-resolution image or scale it without distortion."
+      ],
+      "overallScore": 79
+    },
+    "report": {
+      "scanId": "049f4061-bd16-456f-a873-3a348c5dfd28",
+      "filename": "final-scan.png",
+      "fileType": "png",
+      "status": "completed",
+      "overallScore": 79,
+      "scores": {
+        "content": 79,
+        "typography": 82,
+        "layout": 77,
+        "visualHierarchy": 76,
+        "readability": 78,
+        "consistency": 80,
+        "technical": 83
+      },
+      "issues": [
+        {
+          "category": "Images",
+          "severity": "medium",
+          "location": "image",
+          "issue": "Image resolution may be low for professional presentation use.",
+          "evidence": "Image dimensions 1x1.",
+          "whyItMatters": "Low-resolution visuals can appear pixelated and reduce credibility.",
+          "suggestion": "Use a higher-resolution image or scale it without distortion."
+        }
+      ],
+      "summary": "The PNG file has been flagged for image resolution may be low for professional presentation use. based on the extracted evidence.",
+      "recommendations": [
+        "Use a higher-resolution image or scale it without distortion."
+      ],
+      "extraction": {
+        "image": {
+          "width": 1,
+          "height": 1,
+          "aspectRatio": 1,
+          "resolution": "1x1",
+          "fileSize": 102,
+          "qualityIndicators": {
+            "approxMegapixels": 0.000001,
+            "isLowResolution": true,
+            "aspectRatio": 1
+          },
+          "ocrText": "",
+          "layout": {
+            "dimensions": "1x1",
+            "orientation": "landscape"
+          }
+        },
+        "width": 1,
+        "height": 1,
+        "aspectRatio": 1,
+        "resolution": "1x1"
+      }
+    }
+  }
+}
